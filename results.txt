@@ -1,0 +1,8 @@
+total parsing time 65085 ms
+total countOfRecorderPosts 63326
+total totalPostsCount for whole table = 63326
+posts count per archive(C:\Users\fadeevm\Downloads\Health-News-Tweets.zip) = 63326
+posts count per Archive with word 'Hospital' = 1657
+posts count per Archive with word 'Health' = 12036
+total selecting time 843 ms
+total execution time 75957 ms
